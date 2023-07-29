@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class String_problem {
 	public static void main(String args[]) {
 		Scanner scanner=new Scanner(System.in);
-		System.out.println("my name is yogesh");
+		System.out.println("my name is yogesh i m from latur");
 		String str="my name is yogesh i am from latur i am doing engineering from Sinhgad college of ";
 		for(int i=0; i<str.length(); i++) {
 			char ch=str.charAt(i);
